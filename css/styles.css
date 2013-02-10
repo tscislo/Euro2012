@@ -1,0 +1,134 @@
+body {
+    font-size: 100%;
+    background-color: #000000;
+    font-family: Arial;
+}
+
+#euro-container > div {
+    position: absolute;
+}
+
+#euro-container {
+    background: url('../images/bg.jpg');
+    width: 1280px;
+    height: 720px;
+    margin: 0 auto;
+    position: relative;
+}
+
+#games-container {
+    top: 155px;
+    left: 263px;
+    width: 974px;
+    height: 480px;
+}
+
+.row img, .row div {
+    position: absolute;
+}
+
+.row {
+    background: url('../images/row.png') no-repeat;
+    width: 974px;
+    height: 80px;
+    color: #CCCCCC;
+    position: relative;
+}
+
+#games-container > :nth-child(3n) {
+	background: url('../images/row_gradient.png') no-repeat;
+}
+
+.row .date {
+	top:32px;
+	left:23px;
+	font-size:20px;
+	width:61px;
+	text-align: center;
+}
+
+.row .hour {
+	top:23px;
+	left:100px;
+	font-size:30px;
+	text-align: center;
+}
+
+.row .game1 {
+	top:23px;
+	left:220px;
+	font-size:30px;
+	text-align: right;
+	width:170px;
+}
+
+.row .game1_flag {
+	top:25px;
+	left:410px;
+}
+
+.row .game2_flag {
+	top:25px;
+	left:563px;	
+}
+
+.row .game2 {
+	top:23px;
+	left:621px;
+	font-size:30px;
+	text-align: left;
+	width:170px;
+}
+
+.row .typuj {
+	width:167px;
+	height: 48px;
+	background:url('../images/typuj.png');
+	left:803px;
+	top:15px;
+}
+
+.row .zmien {
+	width:167px;
+	height: 46px;
+	background:url('../images/zmien.png');
+	left:803px;
+	top:15px;
+}
+
+#aktualne {
+	width:220px;
+	height: 62px;
+	background-image:url('../images/aktualne_pressed.png');
+	left:273px;
+	top:85px;
+}
+
+#zakonczone {
+	width:239px;
+	height: 62px;
+	background:url('../images/zakonczone.png');
+	left:502px;
+	top:85px;
+}
+
+#poprzednie {
+	width:161px;
+	height: 52px;
+	background:url('../images/poprzednie.png');
+	left:596px;
+	top:650px;
+	visibility: hidden;
+}
+
+#nastepne {
+	width:147px;
+	height: 52px;
+	background:url('../images/nastepne.png');
+	left:768px;
+	top:650px;
+	visibility: hidden;
+}
+#anchor {
+	color:#000000;
+}

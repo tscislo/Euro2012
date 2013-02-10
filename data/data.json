@@ -1,0 +1,93 @@
+[
+	{
+		id: 1,
+		day: '08.06',
+		hour : '18:00',
+		country1 : 'PL',
+		country2: 'GR'
+	},	{
+		id: 2,
+		day: '08.06',
+		hour : '20:45',
+		country1 : 'RU',
+		country2: 'CZ'
+	},	{
+		id: 3,
+		day: '09.06',
+		hour : '18:00',
+		country1 : 'NL',
+		country2: 'IT'
+	},	{
+		id: 4,
+		day: '09.06',
+		hour : '19:45',
+		country1 : 'IT',
+		country2: 'PT'
+	},	{
+		id: 5,
+		day: '10.06',
+		hour : '18:00',
+		country1 : 'ES',
+		country2: 'IT'
+	},	{
+		id: 6,
+		day: '10.06',
+		hour : '20:45',
+		country1 : 'D',
+		country2: 'PL'
+	},	{
+		id: 7,
+		day: '11.06',
+		hour : '20:45',
+		country1 : 'IT',
+		country2: 'D'
+	},	{
+		id: 8,
+		day: '12.06',
+		hour : '20:45',
+		country1 : 'IT',
+		country2: 'D'
+	},	{
+		id: 9,
+		day: '13.06',
+		hour : '20:45',
+		country1 : 'IT',
+		country2: 'D'
+	},	{
+		id: 10,
+		day: '14.06',
+		hour : '20:45',
+		country1 : 'ES',
+		country2: 'D'
+	},	{
+		id: 11,
+		day: '15.06',
+		hour : '20:45',
+		country1 : 'CZ',
+		country2: 'PL'
+	},	{
+		id: 12,
+		day: '16.06',
+		hour : '20:45',
+		country1 : 'CZ',
+		country2: 'D'
+	},	{
+		id: 13,
+		day: '17.06',
+		hour : '20:45',
+		country1 : 'CZ',
+		country2: 'D'
+	},	{
+		id: 14,
+		day: '19.06',
+		hour : '20:45',
+		country1 : 'CZ',
+		country2: 'PL'
+	},	{
+		id: 15,
+		day: '20.06',
+		hour : '20:45',
+		country1 : 'PT',
+		country2: 'D'
+	}
+]
